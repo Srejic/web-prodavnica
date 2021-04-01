@@ -1,2 +1,3 @@
 # web-prodavnica
-web aplikacija zaa kupovinu i prodaju stvari
+
+web aplikacija za kupovinu i prodaju stvari
